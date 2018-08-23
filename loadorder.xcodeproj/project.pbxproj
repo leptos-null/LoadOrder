@@ -60,6 +60,8 @@
 		FA19D4EB212F691200B5F071 /* control */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = control; sourceTree = "<group>"; };
 		FA19D508212F696600B5F071 /* LSTweakClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSTweakClass.h; sourceTree = "<group>"; };
 		FA19D509212F696600B5F071 /* LSTweakClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSTweakClass.m; sourceTree = "<group>"; };
+		FAB18CF0212F70080080B5EF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FAB18CF1212F70080080B5EF /* LSPutMethodSignature.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSPutMethodSignature.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,8 @@
 		FA19D48B212F605300B5F071 = {
 			isa = PBXGroup;
 			children = (
+				FAB18CF0212F70080080B5EF /* README.md */,
+				FAB18CF1212F70080080B5EF /* LSPutMethodSignature.h */,
 				FA19D496212F605300B5F071 /* loadorder */,
 				FA19D4C3212F691200B5F071 /* loadordertweak */,
 				FA19D4B3212F65ED00B5F071 /* loadorderframework */,
