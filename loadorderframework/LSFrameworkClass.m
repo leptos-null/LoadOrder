@@ -25,3 +25,7 @@
 }
 
 @end
+
+__attribute__((constructor)) static void frameworkConstructor() {
+    puts(__PRETTY_FUNCTION__);
+}

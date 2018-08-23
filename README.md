@@ -8,6 +8,7 @@ This project includes an app, a framework linked against by the app, and a libra
 +[LSTweakClass load]
 void tweakConstructor()
 +[LSFrameworkClass load]
+void frameworkConstructor()
 +[LSAppDelegate load]
 void appConstructor()
 int main(int, char **)
