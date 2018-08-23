@@ -1,0 +1,9 @@
+Package: null.leptos.loadordertweak
+Name: LoadOrderTweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Testing load function call order
+Maintainer: Leptos <leptos.0.null@gmail.com>
+Author: Leptos <leptos.0.null@gmail.com>
+Section: Tweaks
