@@ -21,4 +21,4 @@ MobileSubstrate uses the `DYLD_INSERT_LIBRARIES` enviornment variable (more info
 
 ### Interesting Reading
 
-[Blocking Code Injection on iOS and OS X](https://pewpewthespells.com/blog/blocking_code_injection_on_ios_and_os_x.html)
+[Blocking Code Injection on iOS and OS X](https://pewpewthespells.com/blog/blocking_code_injection_on_ios_and_os_x.html) ([mirror](./blocking_code_injection_on_ios_and_os_x.md))
